@@ -24,7 +24,7 @@ The agent response we have defined contains a single parameter to tell us how mu
 We use `player_hp` to track state between requests. This reperesents the player's health.
 
 ## Demo
-```python
+```
 $ uv run python main.py
 I am a very clumsy adventurer sitting peacefully in a chair. How much health do I have?
 You are sitting peacefully in a chair. You have 10 health remaining.
